@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 title: [Zheng's Page]
-description: [I am a mechanical engineer and software developer.]
 show_download: [false]
+
+owner:
+  name: Zheng Ning
+  bio: I am a mechanical engineer and software developer.
+  email: airportico@gmail.com
