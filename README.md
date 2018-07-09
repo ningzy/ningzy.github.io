@@ -1,4 +1,4 @@
-## Welcome to Zheng's Page
+## Welcome
 
 I am a mechanical engineer and software developer.
 
