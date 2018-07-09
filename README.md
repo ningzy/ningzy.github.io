@@ -1,7 +1,5 @@
 ## Welcome
 
-I am a mechanical engineer and software developer.
-
 Email: [airportico@gmail.com](mailto:airportico@gmail.com)
 
 ### Education
